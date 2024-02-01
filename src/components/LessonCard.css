@@ -1,0 +1,25 @@
+/* LessonCard.css */
+.lesson-card-container {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 16px;
+    text-align: center;
+  }
+  
+  .lesson-card-container h3 {
+    color: #333;
+  }
+  
+  .lesson-card-container button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 15px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  .lesson-card-container button:hover {
+    background-color: #45a049;
+  }
+  
